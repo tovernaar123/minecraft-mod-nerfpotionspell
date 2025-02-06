@@ -3,7 +3,7 @@
 	"package": "tovernaar123.nerfpotionspell.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"SpellMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
